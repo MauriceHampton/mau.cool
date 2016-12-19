@@ -1,0 +1,19 @@
+{
+  "name": "mau.cool",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "now": "now"
+  },
+  "dependencies": {
+    "crumbles": "3.5.2",
+    "next": "^1.2.3",
+    "react-markdown": "^2.4.2"
+  },
+  "devDependencies": {
+    "now": "^0.34.0"
+  }
+}
